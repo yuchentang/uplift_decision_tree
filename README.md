@@ -4,5 +4,5 @@ This is a demo for the uplift decision tree with DeltaDeltaP split. The example 
 
 - max_depth = 3
 - min_samples_leaf = 6000
-- min_samples_leaf_trated = 2500
+- min_samples_leaf_treated = 2500
 - min_samples_leaf_control = 2500
